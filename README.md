@@ -1,4 +1,4 @@
-PLUGIN_LABEL
+Question Mark Effects
 ============
 
 PLUGIN_DESCRIPTION
