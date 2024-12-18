@@ -1,9 +1,9 @@
 Question Mark Effects
 ============
 
-QuestionMarkFX has tons of effects and presets.
+QuestionMarkFX has tons of effects and presets. Like from twirling to blurring to insect vision to color inversion. It's a VEGAS Pro plugin because we are to lazy for Natron to hire me.
 
-[PLUGIN_LABEL on ShuttleOFX.](http://shuttleofx.org/plugin/PLUGIN_UID)
+[QMFXbyTSFBLC64 on ShuttleOFX.](http://shuttleofx.org/plugin/3898423)
 
 ## Compilation
 
