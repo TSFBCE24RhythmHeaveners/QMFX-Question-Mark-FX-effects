@@ -1,7 +1,7 @@
 Question Mark Effects
 ============
 
-PLUGIN_DESCRIPTION
+QuestionMarkFX has tons of effects and presets.
 
 [PLUGIN_LABEL on ShuttleOFX.](http://shuttleofx.org/plugin/PLUGIN_UID)
 
